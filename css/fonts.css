@@ -1,0 +1,18 @@
+
+
+@font-face{
+    font-family:Lemonada;
+    src: url('../fonts/Lemonada/Lemonada-VariableFont_wght.ttf');
+}
+
+
+@font-face{
+    font-family:PT_Sans;
+    src: url('../fonts/PT_Sans/PTSans-Italic.ttf');
+}
+
+
+@font-face{
+    font-family:Roboto;
+    src: url('../fonts/Roboto/Roboto-BlackItalic.ttf');
+}
